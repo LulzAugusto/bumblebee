@@ -1,0 +1,7 @@
+body {
+  height: 90vh;
+  background-color: #00d2ff; /*fallback*/
+  background: linear-gradient( deepskyblue, lightblue);
+  margin: 130px 350px;
+  overflow: hidden;
+}
